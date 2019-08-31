@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AUMP Mess</string>
+
+    <string name="section_format">Section : %1$d</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
